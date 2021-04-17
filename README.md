@@ -1,2 +1,2 @@
 # 2048
-2048 game
+windows operating system 2048 game
